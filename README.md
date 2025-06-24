@@ -22,4 +22,4 @@
    git clone https://github.com/abderrahmane-laourf/CRUD-PHP-simple.git
 
 ## img
-![Image](https://github.com/user-attachments/assets/fa770a90-3708-4a8d-ae39-1a6e6b3f10b2)
+![Image](https://github.com/user-attachments/assets/2f131cf2-e30b-4b98-844d-90cd6fa8a277)
