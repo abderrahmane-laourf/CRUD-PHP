@@ -21,5 +21,5 @@
    ```bash
    git clone https://github.com/abderrahmane-laourf/CRUD-PHP-simple.git
 
-## imag
-    https://github.com/user-attachments/assets/fc69cd41-c6f1-4896-98f9-3a2eea9b4ee9
+## img
+https://github.com/user-attachments/assets/fc69cd41-c6f1-4896-98f9-3a2eea9b4ee9
