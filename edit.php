@@ -7,7 +7,7 @@
         die("❌ ID non spécifié.");
     }
 
-    // recupiration des donnee
+    // recupiration des donne
     $stmt = $pdo -> prepare("SELECT * FROM users WHERE id = :id");
     $stmt->execute([':id'=>$id]);
     $user = $stmt->fetch(PDO::FETCH_ASSOC);
