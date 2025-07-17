@@ -6,6 +6,7 @@
   <title>Formulaire Utilisateur</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
+    
     body {
       font-family: 'Inter', sans-serif;
     }
