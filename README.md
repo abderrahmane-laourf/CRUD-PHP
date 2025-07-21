@@ -4,7 +4,6 @@
 > Built with PHP & PDO, styled using Tailwind CSS for a modern look.
 ---
 
-
 ## ✨ Features
 
 - ✅ Add new users with name & email  
